@@ -1,0 +1,122 @@
+[
+    {
+        "id": 2,
+        "product_name": "Sample Product 1",
+        "product_number": "SP1-00001",
+        "product_code": "100001",
+        "expiry_date": "2020-12-31",
+        "price": 100
+    },
+    {
+        "id": 3,
+        "product_name": "Sample Product 2",
+        "product_number": "SP1-00002",
+        "product_code": "100002",
+        "expiry_date": "2020-12-31",
+        "price": 110
+    },
+    {
+        "id": 4,
+        "product_name": "Sample Product 3",
+        "product_number": "SP1-00003",
+        "product_code": "100003",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 5,
+        "product_name": "Sample Product 4",
+        "product_number": "SP1-00004",
+        "product_code": "100004",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 6,
+        "product_name": "Sample Product 5",
+        "product_number": "SP1-00005",
+        "product_code": "100005",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 7,
+        "product_name": "Sample Product 6",
+        "product_number": "SP1-00006",
+        "product_code": "100006",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 8,
+        "product_name": "Sample Product 7",
+        "product_number": "SP1-00007",
+        "product_code": "100007",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 9,
+        "product_name": "Sample Product 8",
+        "product_number": "SP1-00008",
+        "product_code": "100008",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 10,
+        "product_name": "Sample Product 9",
+        "product_number": "SP1-00009",
+        "product_code": "100009",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 11,
+        "product_name": "Sample Product 10",
+        "product_number": "SP1-00010",
+        "product_code": "100010",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 12,
+        "product_name": "Sample Product 11 Sample Product 11",
+        "product_number": "SP1-00011",
+        "product_code": "100011",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 13,
+        "product_name": "Sample Product 12",
+        "product_number": "SP1-00012",
+        "product_code": "100012",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 14,
+        "product_name": "Sample Product 13",
+        "product_number": "SP1-00013",
+        "product_code": "100013",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 15,
+        "product_name": "Sample Product 14",
+        "product_number": "SP1-00014",
+        "product_code": "100014",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    },
+    {
+        "id": 16,
+        "product_name": "Sample Product 15",
+        "product_number": "SP1-00015",
+        "product_code": "100015",
+        "expiry_date": "2020-12-31",
+        "price": 120
+    }
+]
